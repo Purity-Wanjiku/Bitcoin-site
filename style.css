@@ -1,0 +1,117 @@
+.body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.navbar ul{
+  gap: 6em;
+  margin-left: 350px;
+  display: flex;
+  padding-top: 40px;
+}
+.navbar ul li{
+  list-style: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
+  color: #808080;
+}
+#home{
+  color: rgb(42, 242, 42);
+}
+#button2{
+  border:1px solid rgb(42, 242, 42);
+  border-radius: 5px;
+  padding: 10px 8px;
+}
+.block1{
+    margin-left: 20px;
+}
+#securetxt{
+    color: rgb(22, 52, 22);
+}
+#cryptotxt{
+    text-decoration: rgb(35, 68, 79);
+}
+#heading1{
+    font-size: 40px;
+}
+.text1{
+    border-left: 2px solid  #73199A;
+    padding-left: 10px;
+
+}
+
+.button1{
+    background-color: rgb(42, 242, 42);
+    color: #212126;
+    font-weight: 550;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.firstpage{
+    background-image: url(./Images/Bitcoin.jpg);
+    background-size: cover;
+    padding-bottom: 15px;
+}
+.footer1{
+    background-color: linear-gradient(to bottom, #73199A,  rgb(42, 242, 42) );
+    padding: 80px;
+}
+#arrow{
+   font-size: 15px;
+}
+  #arrow1{
+    margin-bottom: 10px;
+  }
+  .row1{
+    margin-top: -10px;
+    margin-left: -240px;
+  }
+  
+  table{
+    width: 90%;
+    margin-top: 1%;
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    margin-left: 2%;
+    background: radial-gradient( #1D1D1E, #100202);
+    border-radius: 11px;
+    box-shadow: 0 10px 30px rgb(0, 0, 0,0.5);
+    margin-bottom: 20%;
+}
+thead th{
+    color: #808080;
+    width: 25%;
+}
+td,
+th{
+    padding: 16px 24px;
+    text-align: left;
+    color: #D6D6D6;
+    font-weight: 600;
+}
+#graph{
+  width: 50%;
+}
+.buy-btn{
+    padding: inherit;
+    margin-left: -105px;
+    border-radius: 50px;
+    border-style: none;
+    background: none;
+    color: #D6D6D6;
+    font-size: 1rem;
+    font-weight: 900;
+    border: 2px solid #7382FF;
+}
+.red-color{
+    color: #D70000;
+}
+tbody tr:nth-child(even) {
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.38);
+}
+
+
+
+
+
+
