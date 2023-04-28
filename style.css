@@ -52,9 +52,22 @@
     background-size: cover;
     padding-bottom: 15px;
 }
-.footer1{
-    background-color: linear-gradient(to bottom, #73199A,  rgb(42, 242, 42) );
-    padding: 80px;
+footer{
+    background: linear-gradient(to top,  #9775fa,  #a9e34b);
+    
+}
+
+#logo1{
+  width: 8%;
+  margin: 0 70px;
+}
+#logo2{
+  width: 8%;
+  margin: 0 50px 12px 70px;
+}
+#logo3{
+  width: 5%;
+  margin: 0 70px 12px 70px;
 }
 #arrow{
    font-size: 15px;
@@ -110,8 +123,16 @@ tbody tr:nth-child(even) {
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.38);
 }
 
-
-
+#coinicons{
+    width: 24px;
+    height: 24px;
+    margin-left: -55em;
+  }
+  #coins{
+    padding-left: 70px;
+  }
+  
+  
 
 
 
